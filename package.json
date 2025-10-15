@@ -1,0 +1,29 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "description": "",
+  "node-red": {
+    "nodes": {
+    "taiponrock": "node.js"
+    }
+},
+  "keywords": [
+    "node-red",
+    "taiponrock"
+  ],
+  "homepage": "https://github.com/MoatezTilouche/node-red-contrib-taiponrock#readme",
+  "bugs": {
+    "url": "https://github.com/MoatezTilouche/node-red-contrib-taiponrock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoatezTilouche/node-red-contrib-taiponrock.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Moatez Tilouche",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
